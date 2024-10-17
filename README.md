@@ -1,2 +1,5 @@
 # Ohio
-Practice to upload a project in java
+Practice uploading a project in Java
+
+
+Learn GitHub to upload a project
